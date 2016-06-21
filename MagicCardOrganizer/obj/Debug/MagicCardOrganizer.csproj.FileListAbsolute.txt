@@ -1,0 +1,16 @@
+c:\users\benjaming\documents\visual studio 2012\Projects\MagicCardOrganizer\MagicCardOrganizer\bin\Debug\MagicCardOrganizer.exe.config
+c:\Users\benjaming\Documents\Visual Studio 2012\Projects\MagicCardOrganizer\MagicCardOrganizer\bin\Debug\MagicCardOrganizer.exe
+c:\Users\benjaming\Documents\Visual Studio 2012\Projects\MagicCardOrganizer\MagicCardOrganizer\bin\Debug\MagicCardOrganizer.pdb
+c:\Users\benjaming\Documents\Visual Studio 2012\Projects\MagicCardOrganizer\MagicCardOrganizer\obj\Debug\MagicCardOrganizer.csprojResolveAssemblyReference.cache
+c:\Users\benjaming\Documents\Visual Studio 2012\Projects\MagicCardOrganizer\MagicCardOrganizer\obj\Debug\App.g.cs
+c:\Users\benjaming\Documents\Visual Studio 2012\Projects\MagicCardOrganizer\MagicCardOrganizer\obj\Debug\MagicCardOrganizer_MarkupCompile.cache
+c:\Users\benjaming\Documents\Visual Studio 2012\Projects\MagicCardOrganizer\MagicCardOrganizer\obj\Debug\MagicCardOrganizer.g.resources
+c:\Users\benjaming\Documents\Visual Studio 2012\Projects\MagicCardOrganizer\MagicCardOrganizer\obj\Debug\MagicCardOrganizer.Properties.Resources.resources
+c:\Users\benjaming\Documents\Visual Studio 2012\Projects\MagicCardOrganizer\MagicCardOrganizer\obj\Debug\MagicCardOrganizer.csproj.GenerateResource.Cache
+c:\Users\benjaming\Documents\Visual Studio 2012\Projects\MagicCardOrganizer\MagicCardOrganizer\obj\Debug\MagicCardOrganizer.exe
+c:\Users\benjaming\Documents\Visual Studio 2012\Projects\MagicCardOrganizer\MagicCardOrganizer\obj\Debug\MagicCardOrganizer.pdb
+C:\Users\benjaming\Documents\Visual Studio 2012\Projects\MagicCardOrganizer\MagicCardOrganizer\obj\Debug\Views\MainWindow.baml
+C:\Users\benjaming\Documents\Visual Studio 2012\Projects\MagicCardOrganizer\MagicCardOrganizer\obj\Debug\Views\MainWindow.g.cs
+C:\Users\benjaming\Documents\Visual Studio 2012\Projects\MagicCardOrganizer\MagicCardOrganizer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\benjaming\Documents\Visual Studio 2012\Projects\MagicCardOrganizer\MagicCardOrganizer\obj\Debug\MagicCardOrganizer_MarkupCompile.lref
+C:\Users\benjaming\Documents\Visual Studio 2012\Projects\MagicCardOrganizer\MagicCardOrganizer\bin\Debug\MySql.Data.dll
